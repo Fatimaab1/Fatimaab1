@@ -2,10 +2,17 @@
 
 
 
+- 🔭 I’m currently working on my problem solving, technical skills and communication skills through: 
 
-Here are some ideas to get you started:
+- 👩🏾 on a mentorship programme with [Black Girls In Tech](https://www.blackgirlsintech.org/)
 
-- 🔭 I’m currently working on ...
+
+
+
+
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
