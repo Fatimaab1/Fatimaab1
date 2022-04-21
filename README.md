@@ -28,7 +28,10 @@
 
 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/fatimabarkat/"><img src="images/linkedin.png" alt="linkedin icon"width="30px"></a>
+<a href="https://www.linkedin.com/in/fatimabarkat/">
+<img src="images/linkedin.png" alt="alternate text"
+width="30px" height="height">
+</a> 
 
 <br>
 
