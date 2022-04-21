@@ -24,3 +24,30 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to bake 🧁
 
+<br>
+
+🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/fatimabarkat/"><img src="images/linkedin.png" alt="linkedin icon"width="30px"></a>
+
+<br>
+
+🖥️ Technical Skills
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+<br>
+
+📓 Education
+
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+
+<br>
+
+📁 Project links
