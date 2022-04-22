@@ -26,13 +26,13 @@
 
 <br>
 
-🤝 Connect with me:
+🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/fatimabarkat/">
-<img src="images/linkedin.png" alt="alternate text"
-width="30px" height="height">
-</a> 
+ 
 
+
+[<img src="images/linkedin.png" alt="alternate text"
+width="30px" height="height">](https://www.linkedin.com/in/fatimabarkat/)
 
 <br>
 
@@ -57,3 +57,4 @@ width="30px" height="height">
 
 📁 Project link
 
+- [H&M Toy Landing Page](https://github.com/Fatimaab1/HM-Home-Landing-Page)
