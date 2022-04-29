@@ -55,6 +55,7 @@ width="30px" height="height">](https://www.linkedin.com/in/fatimabarkat/)
 
 <br>
 
-📁 Project link
+📁 Project links
 
 - [H&M Home Landing Page](https://github.com/Fatimaab1/H-M-home-redesign)
+- [Architect portfolio Landing page] (https://github.com/Fatimaab1/architect-portfolio-landingpage)
