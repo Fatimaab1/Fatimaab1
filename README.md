@@ -57,4 +57,4 @@ width="30px" height="height">](https://www.linkedin.com/in/fatimabarkat/)
 
 📁 Project link
 
-- [H&M Toy Landing Page](https://github.com/Fatimaab1/HM-Home-Landing-Page)
+- [H&M Home Landing Page](https://github.com/Fatimaab1/H-M-home-redesign)
